@@ -1,0 +1,20 @@
+{
+  "collectionName": "jm_fields",
+  "info": {
+    "name": "Tasting Note",
+    "icon": "archway",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "eyebrow": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "header": {
+      "type": "string"
+    }
+  }
+}

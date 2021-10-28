@@ -58,6 +58,11 @@
     },
     "category": {
       "model": "category"
+    },
+    "tasting_notes": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.tasting-note"
     }
   }
 }
