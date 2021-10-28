@@ -10,11 +10,11 @@
     "eyebrow": {
       "type": "string"
     },
-    "description": {
-      "type": "text"
-    },
     "header": {
       "type": "string"
+    },
+    "description": {
+      "type": "text"
     }
   }
 }
