@@ -20,7 +20,7 @@
       "targetField": "title"
     },
     "description": {
-      "type": "string",
+      "type": "text",
       "required": true
     },
     "price": {
