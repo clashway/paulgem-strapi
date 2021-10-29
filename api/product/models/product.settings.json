@@ -13,6 +13,11 @@
   "pluginOptions": {
     "i18n": {
       "localized": true
+    },
+    "preview-content": {
+      "previewable": true,
+      "url": ":baseUrl/api/preview?secret=preview_secret_key&slug=<%= slug %>&locale=<%= locale %>",
+      "usesValuesInUrl": true
     }
   },
   "attributes": {
